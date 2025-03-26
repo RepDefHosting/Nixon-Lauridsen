@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Nixon Lauridsen
+jobTitle: Former CEO
+location: Des Moines, Iowa
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/nixon-lauridsen-contributing-to-the-des-moines-community.jpg
+  alt: Nixon Lauridsen - Contributing to the Des Moines Community
+siteUrl: https://www.nixon-lauridsen.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/nix-lauridsen-958b3226
     label: Visit
     show: true
   pinterest:
