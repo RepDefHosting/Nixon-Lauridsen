@@ -3,9 +3,8 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: "Today, the LGI corporate footprint spans a half-dozen
+  independently operated enterprises guided by Nix Lauridsen’s daughter. "
 published: true
 schemaType: WebPage
 header: Blog
