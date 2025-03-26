@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Nixon Lauridsen
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -16,8 +16,8 @@ featuredImage:
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: Based in Des Moines, Iowa, Nixon Lauridsen established the
+  Lauridsen Group (LGI), which he led as the company’s CEO for four decades.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +32,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+Based in Des Moines, Iowa, Nixon Lauridsen established the Lauridsen Group (LGI), which he led as the company’s CEO for four decades. He is retired from a group of companies that is still family owned and operated, and has its roots in a Dedham creamery that produced quality eggs, poultry, and butter across much of the 20th century. In the mid-1970s, Nixon Lauridsen partnered with his father Wally in repositioning the company toward the dairy and meat byproduct sector.
